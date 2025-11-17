@@ -1,7 +1,7 @@
 # 4.-Design-and-Simulation-of-Full-wave-rectifier-controlled-by-a-thyristor
 ## AIM
 To design, simulate and analyse a full wave rectifier controlled by thyristors using MATLAB Simulink.
-## APPARATUS REQUIRED
+## APPARATUS REQUIREDm
 •	MATLAB
 ## PROCEDURE
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
